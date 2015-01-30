@@ -1,0 +1,9 @@
+{
+  "name": "autogrow",
+  "description": "Automatically grow and shrink textareas with the content as you type",
+  "homepage": "https://github.com/agnito/meteor-autogrow.git",
+  "author": "Dan Rubins",
+  "version": "0.0.1",
+  "git": "https://github.com/agnito/meteor-autogrow.git",
+  "packages": {}
+}
